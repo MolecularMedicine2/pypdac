@@ -2,7 +2,7 @@
 Based on the Paper:  Communicator-Driven Data Preprocessing Improves Deep Transfer Learning of Histopathological Prediction of Pancreatic Ductal Adenocarcinoma.<br>
 Data are not avaible. <br>
 Implemented in Python using the PyTorch Framework<br>
-We provide the code to be able to analyse H&E tissue slides scans automatically and quickly.<br>
+We provide the code to enable you to to analyse H&E tissue slides scans automatically and quickly.<br>
 <br>
 # Installation Guide
 See https://github.com/MolecularMedicine2/PyQoVi
