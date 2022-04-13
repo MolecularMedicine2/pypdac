@@ -18,7 +18,7 @@ color_public_hpc.py - Use a trained CNN to classify & color the image patches.
 <br>
 automatic_cleaning.py - Clean two CNNs per Tissue type (HLN, HP, PDAC) and additional well labeled data.
 <br>
-clean_public_hpc.py - Use the Nets six nets from automatic_cleaning.py to clean up the whole dataset
+clean_public_hpc.py - Use the six nets from automatic_cleaning.py to clean up the whole dataset
 <br>
 
 # Error Handling:
